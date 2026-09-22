@@ -1,0 +1,18 @@
+Source: Coimbatore Municipal Corporation — City Development Plan 2024
+Topic: Urban infrastructure and flood vulnerability
+
+City profile:
+- Population: 1.6 million (2024), growing at 2.8% annually
+- Area: 246 sq km, elevation 411-440m ASL
+- Major waterways: Noyyal River (south), Siruvani River (west)
+- Historical floods: 2018 (Noyyal overflow), 2019 (urban flash floods), 2023 (monsoon flooding)
+- Drainage system: 340 km of storm water drains, 65% constructed before 2000
+- Current drainage capacity: handles 55mm/hr peak intensity (design standard: 60mm/hr)
+- Health infrastructure: 12 hospitals, 45 primary health centres, 3 in high-risk flood zones
+- Schools in flood zones: 8 schools with >500 students each in Zone A and Zone B
+
+Vulnerability factors:
+- Rapid urbanization reducing natural drainage in western corridors
+- Encroachment on Noyyal River floodplain in Zone A
+- Aging drainage infrastructure with 30% blockage/siltation
+- Limited real-time flood monitoring (only 3 gauge stations for entire city)

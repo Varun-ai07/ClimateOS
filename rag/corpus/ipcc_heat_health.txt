@@ -1,0 +1,12 @@
+Source: IPCC AR6 Working Group II, Chapter 7 — Health, Wellbeing and the Changing Structure of Communities
+Topic: Heat-related health impacts in South Asian urban areas
+
+Key findings:
+- Heat wave frequency and intensity projected to increase in South Asia under all warming scenarios
+- Urban heat island effect compounds background warming by 2-5°C in Indian cities
+- Coimbatore experiences 15-25 days per year above 38°C; projected to reach 30-45 days by 2050 under SSP2-4.5
+- Heat-related mortality in Indian cities could increase by 200-400% without adaptation measures
+- Priority adaptations: urban green cover increase to 30%, cool roof programs, heat action plans with early warning systems
+- WHO recommends threshold-based heat health warning systems trigger at wet-bulb globe temperature >32°C
+
+Confidence: High confidence for heat increase direction; Medium confidence for health impact magnitude.

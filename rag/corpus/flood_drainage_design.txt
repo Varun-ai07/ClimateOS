@@ -1,0 +1,14 @@
+Source: Central Water Commission of India — Urban Flood Management Guidelines (2023)
+Topic: Drainage design standards for Indian cities
+
+Key specifications:
+- Design storm return period for urban drainage: 25-year ARI (Annual Recurrence Interval) for primary drains
+- Peak rainfall intensity for Coimbatore (ISI formula): 60-80 mm/hr for 1-hour duration, 25-year return period
+- Current drainage capacity in most Indian tier-2 cities handles 50-60 mm/hr peak intensity
+- Climate change adjustment factor: multiply design intensity by 1.15-1.25 for 2050 projections
+- Minimum freeboard requirement: 0.5m above design water level for critical infrastructure
+- Health facilities in flood zones require minimum 1m freeboard above 100-year flood level
+- Evacuation route design: maintain passable road surface at 75th percentile flood depth
+- Emergency access: minimum 4.5m clear width maintained during design flood event
+
+Application: Coimbatore Zone A drainage requires capacity upgrade from 55mm/hr to 68mm/hr to handle projected 2050 conditions.

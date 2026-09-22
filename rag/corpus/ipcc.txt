@@ -1,0 +1,138 @@
+Source: ipcc.pdf
+
+--- Chunk 1 ---
+A Report of the Intergovernmental Panel on Climate ChangeCLIMATE CHANGE 2023
+Synthesis Report
+Summary for Policymakers
+CLIMATE CHANGE 2023
+Synthesis Report
+Summary for Policymakers
+Hoesung Lee (Chair), Katherine Calvin (USA), Dipak Dasgupta (India/USA), Gerhard Krinner (France/Germany), Aditi Mukherji 
+(India), Peter Thorne (Ireland/United Kingdom), Christopher Trisos (South Africa), José Romero (Switzerland), Paulina Aldunce 
+(Chile), Ko Barrett (USA), Gabriel Blanco (Argentina), William W. L. Cheung (Canada), Sarah L. Connors (France/United Kingdom), 
+Fatima Denton (The Gambia), Aïda Diongue-Niang (Senegal), David Dodman (Jamaica/United Kingdom/Netherlands), Matthias 
+Garschagen (Germany), Oliver Geden (Germany), Bronwyn Hayward (New Zealand), Christopher Jones (United Kingdom), Frank 
+Jotzo (Australia), Thelma Krug (Brazil), Rodel Lasco (Philippines), June-Yi Lee (Republic of Korea), Valérie Masson-Delmotte 
+(France), Malte Meinshausen (Australia/Germany), Katja Mintenbeck (Germany)
+
+--- Chunk 2 ---
+, Abdalah Mokssit (Morocco), Friederike E. L. Otto 
+(United Kingdom/Germany), Minal Pathak (India), Anna Pirani (Italy), Elvira Poloczanska (United Kingdom/Australia), Hans-Otto 
+Pörtner (Germany), Aromar Revi (India), Debra C. Roberts (South Africa), Joyashree Roy (India/Thailand), Alex C. Ruane (USA), Jim 
+Skea (United Kingdom), Priyadarshi R. Shukla (India), Raphael Slade (United Kingdom), Aimée Slangen (The Netherlands), Youba 
+Sokona (Mali), Anna A. Sörensson (Argentina), Melinda Tignor (USA/Germany), Detlef van Vuuren (The Netherlands), Yi-Ming Wei 
+(China), Harald Winkler (South Africa), Panmao Zhai (China), Zinta Zommers (Latvia)
+Referencing this report:
+IPCC, 2023: Summary for Policymakers. In: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to 
+the Sixth Assessment Report of the Intergovernmental Panel on Climate Change  [Core Writing Team, H. Lee and J. Romero (eds.)]. 
+IPCC, Geneva, Switzerland, pp. 1-34, doi: 10.59327/IPCC/AR6-9789291691
+
+--- Chunk 3 ---
+647.001Core Writing TeamEdited by
+Hoesung Lee
+Chairman
+IPCCJosé Romero
+Head, Technical Support Unit
+IPCCThe Core Writing Team
+Synthesis Report
+IPCC
+José Romero (Switzerland), Jinmi Kim (Republic of Korea), Erik F . Haites (Canada), Yonghun Jung (Republic of Korea), Robert 
+Stavins (USA), Arlene Birt  (USA), Meeyoung Ha (Republic of Korea), Dan Jezreel A. Orendain (Philippines), Lance Ignon (USA), 
+Semin Park (Republic of Korea), Youngin Park (Republic of Korea)Technical Support Unit for the Synthesis Report
+iiTHE INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE  
+© Intergovernmental Panel on Climate Change, 2023 
+The designations employed and the presentation of material on maps do not imply the expression of any opinion whatsoever on 
+the part of the Intergovernmental Panel on Climate Change concerning the legal status of any country, territory, city or area or of 
+its authorities, or concerning the delimitation of its frontiers or boundaries. The mention of specific companies or products do
+
+--- Chunk 4 ---
+es 
+not imply that they are endorsed or recommended by IPCC in preference to others of a similar nature, which are not mentioned 
+or advertised. The right of publication in print, electronic and any other form and in any language is reserved by the IPCC.  
+Short extracts from this publication may be reproduced without authorization provided that complete source is clearly indicated.  
+Editorial correspondence and requests to publish, reproduce or translate articles in part or in whole should be addressed to: IPCC 
+c/o World Meteorological Organization (WMO) 7bis, avenue de la Paix Tel.: +41 22 730 8208 P .O. Box 2300 Fax: +41 22 730 8025 
+CH 1211 Geneva 2, Switzerland E-mail: IPCC-Sec@wmo.int www.ipcc.ch  Paola Arias (Colombia), Mercedes Bustamante (Brazil), Ismail Elgizouli (Sudan), Gregory Flato (Canada), Mark Howden (Australia), 
+Carlos Méndez (Venezuela), Joy Jacqueline Pereira (Malaysia), Ramón Pichs-Madruga (Cuba), Steven K Rose (USA), Yamina Saheb 
+(Algeria/France), Roberto Sánc
+
+--- Chunk 5 ---
+hez Rodríguez (Mexico), Diana Ürge-Vorsatz (Hungary), Cunde Xiao (China), Noureddine Yassaa (Algeria)
+Andrés Alegría (Germany/Honduras), Kyle Armour (USA), Birgit Bednar-Friedl (Austria), Kornelis Blok (The Netherlands), Guéladio 
+Cissé (Switzerland/Mauritania/France), Frank Dentener (EU/Netherlands), Siri Eriksen (Norway), Erich Fischer (Switzerland), 
+Gregory Garner (USA), Céline Guivarch (France), Marjolijn Haasnoot (The Netherlands), Gerrit Hansen (Germany), Mathias 
+Hauser (Switzerland), Ed Hawkins (UK), Tim Hermans (The Netherlands), Robert Kopp (USA), Noëmie Leprince-Ringuet (France), 
+Jared Lewis (Australia/New Zealand), Debora Ley (Mexico/Guatemala), Chloé Ludden (Germany/France), Leila Niamir (Iran/The 
+Netherlands/Austria), Zebedee Nicholls (Australia), Shreya Some (India/Thailand), Sophie Szopa (France), Blair Trewin (Australia), 
+Kaj-Ivar van der Wijst (The Netherlands), Gundula Winter (The Netherlands/Germany), Maximilian Witting (Germany)
+Hoesung Lee (Chair, IPCC), Amjad
+
+--- Chunk 6 ---
+Abdulla (Maldives), Edvin Aldrian (Indonesia), Ko Barrett (United States of America), Eduardo 
+Calvo (Peru), Carlo Carraro (Italy), Diriba Korecha Dadi (Ethiopia), Fatima Driouech (Morocco), Andreas Fischlin (Switzerland), 
+Jan Fuglestvedt (Norway), Thelma Krug (Brazil), Nagmeldin G.E. Mahmoud (Sudan), Valérie Masson-Delmotte (France), Carlos 
+Méndez (Venezuela), Joy Jacqueline Pereira (Malaysia), Ramón Pichs-Madruga (Cuba), Hans-Otto Pörtner (Germany), Andy 
+Reisinger (New Zealand), Debra C. Roberts (South Africa), Sergey Semenov (Russian Federation), Priyadarshi Shukla (India), 
+Jim Skea (United Kingdom), Youba Sokona (Mali), Kiyoto Tanabe (Japan), Muhammad Irfan Tariq (Pakistan), Diana Ürge-Vorsatz 
+(Hungary), Carolina Vera (Argentina), Pius Yanda (United Republic of Tanzania), Noureddine Yassaa (Algeria), Taha M. Zatari 
+(Saudi Arabia), Panmao Zhai (China)Review Editors
+Contributing Authors
+Scientific Steering Committee
+Arlene Birt (USA), Meeyoung Ha (Republic of Korea)Visual Conc
+
+--- Chunk 7 ---
+eption and Information Design
+“Fog opening the dawn” by Chung Jin Sil
+The Weather and Climate Photography & Video Contest 2021, Korea Meteorological Administration
+http://www.kma.go.kr/kma  © KMAPhoto ReferenceCover: Designed by Meeyoung Ha, IPCC SYR TSUJean-Charles Hourcade (France), Francis X. Johnson (Thailand/Sweden), Shonali Pachauri (Austria/India), Nicholas P . Simpson 
+(South Africa/Zimbabwe), Chandni Singh (India), Adelle Thomas (Bahamas), Edmond Totin (Benin)Extended Writing Team
+iiiSources cited in this Synthesis Report
+References for material contained in this report are given in curly brackets {} at the end of each paragraph.
+In the Summary for Policymakers, the references refer to the numbers of the sections, figures, tables and boxes in the underlying 
+Introduction and Topics of this Synthesis Report.
+In the Introduction and Sections of the longer report, the references refer to the contributions of the Working Groups I, II and 
+III (WGI, WGII, WGIII) to the Sixth Assess
+
+--- Chunk 8 ---
+ment Report and other IPCC Reports (in italicized curly brackets), or to other sections 
+of the Synthesis Report itself (in round brackets).
+The following abbreviations have been used:
+SPM: Summary for Policymakers
+TS: Technical Summary
+ES: Executive Summary of a chapter
+Numbers denote specific chapters and sections of a report.
+Other IPCC reports cited in this Synthesis Report:
+SR1.5: Global Warming of 1.5°C
+SRCCL: Climate Change and Land
+SROCC: The Ocean and Cryosphere in a Changing Climate
+Summary for 
+Policymakers
+IPCC, 2023: Summary for Policymakers. In: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to 
+the Sixth Assessment Report of the Intergovernmental Panel on Climate Change  [Core Writing Team, H. Lee and J. Romero (eds.)]. 
+IPCC, Geneva, Switzerland, pp. 1-34, doi: 10.59327/IPCC/AR6-9789291691647.001This Summary for Policymakers should be cited as:
+3
+Summary for PolicymakersSummary for PolicymakersIntroduction  
+This Synthesis Report (SY
+
+--- Chunk 9 ---
+R) of the IPCC Sixth Assessment Report (AR6) summarises the state of knowledge of climate change, 
+its widespread impacts and risks, and climate change mitigation and adaptation. It integrates the main findings of the Sixth 
+Assessment Report (AR6) based on contributions from the three Working Groups1, and the three Special Reports2. The summary 
+for Policymakers (SPM) is structured in three parts: SPM.A Current Status and Trends, SPM.B Future Climate Change, Risks, and 
+Long-Term Responses, and SPM.C Responses in the Near Term3. 
+This report recognizes the interdependence of climate, ecosystems and biodiversity, and human societies; the value of diverse 
+forms of knowledge; and the close linkages between climate change adaptation, mitigation, ecosystem health, human well-being 
+and sustainable development, and reflects the increasing diversity of actors involved in climate action. 
+Based on scientific understanding, key findings can be formulated as statements of fact or associated wi
+
+--- Chunk 10 ---
+th an assessed level of 
+confidence using the IPCC calibrated language4.  
+1 The three Working Group contributions to AR6 are: AR6 Climate Change 2021: The Physical Science Basis; AR6 Climate Change 2022: Impacts, Adaptation 
+and Vulnerability; and AR6 Climate Change 2022: Mitigation of Climate Change. Their assessments cover scientific literature accepted for publication 
+respectively by 31 January 2021, 1 September 2021 and 11 October 2021.
+2 The three Special Reports are: Global Warming of 1.5°C (2018): an IPCC Special Report on the impacts of global warming of 1.5°C above pre-industrial 
+levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable 
+development, and efforts to eradicate poverty (SR1.5); Climate Change and Land (2019): an IPCC Special Report on climate change, desertification, land 
+degradation, sustainable land management, food security, and greenhouse gas fluxes in terre
+

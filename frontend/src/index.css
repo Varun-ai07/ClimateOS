@@ -1,0 +1,130 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #D9C5B4;
+  --primary-dark: #BFA27E;
+  --logo-mark: #FFFFFF;
+  --logo-bg: #0F2B38;
+  --neutral: #E7DED3;
+  --neutral-light: #ECE7E2;
+  --accent: #735448;
+  --text: #260101;
+  --surface: #ECE7E2;
+  --ink: #260101;
+  --acting: #BFA27E;
+  --thinking: #735448;
+  --decided: #4A6741;
+  --alert: #8B3A3A;
+  --idle: #9B8B7A;
+}
+
+body {
+  background: var(--surface);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Film grain overlay */
+.grain-overlay::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.055;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  mix-blend-mode: multiply;
+}
+.hero-gradient { background-image: linear-gradient(135deg, rgba(11,27,20,0.06), rgba(73,84,96,0.06)); }
+.card-shine { background-image: linear-gradient(180deg, rgba(255,255,255,0.45), rgba(255,255,255,0)); }
+.mission-btn-glow { 
+  box-shadow: 0 0 0 rgba(115,84,72,0);
+  transition: box-shadow 0.3s ease, transform 0.15s ease, background-color 0.2s ease;
+}
+.mission-btn-glow:hover {
+  box-shadow: 0 14px 30px rgba(115,84,72,0.28);
+  transform: translateY(-1px);
+}
+.risk-glow-high { box-shadow: 0 0 14px rgba(139,58,58,0.45); }
+.risk-glow-medium { box-shadow: 0 0 14px rgba(191,162,126,0.4); }
+.risk-glow-low { box-shadow: 0 0 14px rgba(74,103,65,0.4); }
+.transition-smooth { transition: all 0.25s cubic-bezier(0.4,0,0.2,1); }
+.glass-panel { background: rgba(255,255,255,0.72); backdrop-filter: blur(8px); }
+@keyframes glow-text {
+  0%,100% { text-shadow: 0 0 0 rgba(11,27,20,0); }
+  50% { text-shadow: 0 0 16px rgba(11,27,20,0.25); }
+}
+.animate-glow-text { animation: glow-text 3.2s ease-in-out infinite; }
+@keyframes float-badge {
+  0%,100% { transform: translateY(0px); }
+  50% { transform: translateY(-3px); }
+}
+.animate-float-badge { animation: float-badge 2.8s ease-in-out infinite; }
+@keyframes border-shimmer {
+  0% { border-color: rgba(191,162,126,0.3); }
+  50% { border-color: rgba(191,162,126,0.9); }
+  100% { border-color: rgba(191,162,126,0.3); }
+}
+.animate-border-shimmer { animation: border-shimmer 2.4s ease-in-out infinite; }
+@keyframes gradient-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-gradient-in { animation: gradient-in 0.6s ease-out forwards; }
+@keyframes underline-slide {
+  from { transform: scaleX(0); }
+  to { transform: scaleX(1); }
+}
+.animate-underline::after {
+  content:'';
+  display:block;
+  height:2px;
+  background: var(--acting);
+  transform-origin:left;
+  animation: underline-slide 0.6s ease-out forwards;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--idle);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ink);
+}
+
+/* Leaflet map overrides */
+.leaflet-container {
+  background: var(--neutral-light) !important;
+  font-family: inherit !important;
+}
+
+.leaflet-control-zoom {
+  border: 1px solid var(--neutral) !important;
+  border-radius: 8px !important;
+  overflow: hidden;
+}
+
+.leaflet-control-zoom a {
+  background: white !important;
+  color: var(--ink) !important;
+  border-bottom: 1px solid var(--neutral) !important;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(38, 1, 1, 0.15) !important;
+}

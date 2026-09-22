@@ -1,0 +1,1 @@
+"""ClimateNarrative data module."""

@@ -1,0 +1,17 @@
+Source: WHO Global Heat Health Information Network — Guidance for Indian Cities (2023)
+Topic: Heat action planning and community preparedness
+
+Key recommendations:
+- Heat Health Warning System (HHWS) should trigger at: Orange alert at WBGT 30-32°C, Red alert at WBGT >32°C
+- Community cooling centres: 1 per 50,000 population in high-density areas
+- Outdoor worker protection: mandatory breaks during 12:00-15:00 when temperature exceeds 40°C
+- Vulnerable population registry: elderly (>65), children (<5), pregnant women, outdoor workers
+- Emergency medical supply pre-positioning: IV fluids, ORS, cooling equipment at all health facilities
+- Public awareness campaigns reduce heat mortality by 30-50% when implemented before heat season
+- Green infrastructure: 15% increase in urban tree canopy reduces peak surface temperature by 2-4°C
+- Building codes: reflectivity standards (albedo >0.7) for new construction in heat-prone zones
+
+Application for Coimbatore:
+- Current HHWS covers only 40% of population; target 90% coverage by 2027
+- 3 cooling centres currently operational; need 12 for adequate coverage
+- 8,000+ outdoor construction workers lack heat protection protocols

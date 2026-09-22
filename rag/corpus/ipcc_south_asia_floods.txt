@@ -1,0 +1,14 @@
+Source: IPCC AR6 Working Group II, Chapter 8 — South Asia Regional Fact Sheet
+Topic: Flood risk projections for Tamil Nadu and Coimbatore region
+
+Key findings for South Asia:
+- Heavy precipitation events are projected to increase by 10-30% under SSP2-4.5 by mid-century
+- Urban flooding risk in tier-2 Indian cities is projected to increase significantly due to combined effects of increased precipitation intensity and rapid urbanization
+- Tamil Nadu faces heightened flood risk during southwest monsoon (June-September) with projected 5-15% increase in peak monthly rainfall by 2050
+- Coimbatore district lies in the rain shadow of Western Ghats but receives 600-800mm annual rainfall, with 70% concentrated in monsoon months
+- Noyyal River basin has documented flooding events in 2018 and 2019 affecting low-lying areas below 420m elevation
+- Adaptation priority: upgrade urban drainage capacity to handle 15-25% increase in peak flow
+- Health infrastructure in flood zones requires relocation or flood-proofing measures
+- Early warning systems reduce flood mortality by 40-60% when combined with community preparedness programs
+
+Confidence levels: High confidence for precipitation increase direction; Medium confidence for exact magnitude at city scale.
