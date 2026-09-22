@@ -8,14 +8,14 @@ A multi-agent pipeline that ingests climate/geospatial data, generates narrative
 
 ```
 ┌─────────────┐    ┌──────────┐    ┌────────────┐    ┌───────┐    ┌────────┐
-│  Forecast   │───▶│ Downscale │───▶│   Impact    │───▶│ Policy │───▶│Human  │
-│  Agent      │    │ Agent     │    │   Agent     │    │ Agent  │    │Review │
+│  Forecast   │──▶│ Downscale│──▶│   Impact   │──▶│ Policy│──▶│Human   │
+│  Agent      │    │  Agent   │    │   Agent    │    │ Agent │    │Review  │
 └─────────────┘    └──────────┘    └────────────┘    └───────┘    └────────┘
                                              │                         │
                                              ▼                         ▼
                                       ┌────────────┐          ┌────────────┐
-                                      │Integrity   │          │Engagement │
-                                      │Agent       │          │Agent        │
+                                      │Integrity   │          │Engagement  │
+                                      │Agent       │          │Agent       │
                                       └────────────┘          └────────────┘
                                              │
                                              ▼
@@ -26,16 +26,16 @@ A multi-agent pipeline that ingests climate/geospatial data, generates narrative
                                              │
                                              ▼
                                   ┌──────────────────┐
-                                  │  API + WebSocket  │
-                                  │  (FastAPI)        │
+                                  │  API + WebSocket │
+                                  │  (FastAPI)       │
                                   └──────────────────┘
                                              │
                               ┌─────────────┴──────────────┐
                               ▼                              ▼
                    ┌──────────────────┐          ┌──────────────────┐
-                   │   LLM Service    │          │     RAG Layer     │
-                   │ (7-provider      │          │ (Vector Store +   │
-                   │  fallback)       │          │  Fact Verification│
+                   │   LLM Service    │          │     RAG Layer    │
+                   │ (7-provider      │          │ (Vector Store +  │
+                   │  fallback)       │          │ Fact Verification│
                    └──────────────────┘          └──────────────────┘
 ```
 
